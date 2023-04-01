@@ -38,3 +38,8 @@ let retailers: string[];
  * 
  */
 
+/**
+ * NEED TO DO - 
+ * => Diff in b/w type and interface
+ */
+
